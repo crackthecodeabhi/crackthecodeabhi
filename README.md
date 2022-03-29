@@ -4,11 +4,11 @@
 
 ### Hi there, potential friend 👋
 
-### Open for contract work, 6 Years of experience in Full-Stack Software Development, Devops [AWS/GCP].
+### A friendly developer with 6 Years of experience in Full-Stack Software Development, Devops [AWS/GCP].
 
 - 🔭 I’m currently working on Kreds, a Kotlin Redis Client.
 - 🌱 I’m currently learning Rust Programming.
-- 👯 I’m looking to collaborate on any opensource project, ping me if you need help! Let's connect.
+- 👯 Do you love Kotlin? Love to contribute to Kotlin Server side? Check out my Kreds project, welcoming contributors!
 - 💬 Ask me about guitar, travel, photography and music. 
 - 📫 How to reach me: abs@abhijith.page
 - 😄 Pronouns: he/him
