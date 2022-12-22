@@ -3,12 +3,12 @@
 -->
 
 ### Who am i?
-#### Engineer with 7+ Years of experience in Full-Stack Software Development and Devops Engineering
+#### Engineer with 8+ Years of experience in Full-Stack Software Development and Devops Engineering
 
 ### You can reach me at abs@abhijith.page 
 
 - 🔭 I’m currently working on Kreds, a Kotlin Redis Client.
-- ✍🏻 Java/Kotlin/Rust are the languages in my toolbox.
+- ✍🏻 Java/Kotlin/NodeJS are the languages in my toolbox.
 - 👯 Do you want to contribute to Kotlin Server side? Check out my Kreds project, welcoming contributors!
 - 💬 Ask me about guitar, travel, photography and music.
 - 🛠 I love engineering & building things with 3D Printer.
