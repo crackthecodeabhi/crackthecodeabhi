@@ -8,7 +8,7 @@
 ### You can reach me at abs@abhijith.page 
 
 - 🔭 Maintiner for Kreds, redis client for Kotlin.
-- ✍🏻 Kotlin(Server)/NodeJS/Rust are the languages in my toolbox.
+- ✍🏻 Kotlin(Server)/NodeJS are the languages in my toolbox.
 - 💬 Ask me about guitar, travel, photography and music.
 - ⚡ Have a great day!!
 
