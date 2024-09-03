@@ -7,6 +7,6 @@
 
 ### You can reach me at abs@abhijith.page 
 
-- 🔭 Maintiner for Kreds, redis client for Kotlin.
+- 🔭 Maintainer for Kreds, redis client for Kotlin.
 - 💬 Ask me about guitar, travel, photography and music.
 
